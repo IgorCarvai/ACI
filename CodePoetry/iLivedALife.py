@@ -27,9 +27,6 @@ def tryingToRemember(whileGettingOld):
         print Style.BRIGHT + Fore.BLACK+ "I grow too old"
     if whileGettingOld==18:
         print Style.BRIGHT + Fore.BLACK+ "\nI lived a life"
-    if whileGettingOld==19:
-        global life
-        life=False     
         print Style.BRIGHT + Fore.BLACK+ "-Igor Carvalho"
         
 def timeGoesBy():
